@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+let username = "Dummy Username"
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
